@@ -1,0 +1,30 @@
+
+.container{
+  width: 80%;
+  margin: 5rem auto;
+  text-align: center;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+body{
+  background-color: #e23e57;
+}
+h1{
+  font-family: 'Satisfy', cursive;
+  font-size: 8rem;
+  color: #311d3f;
+  text-shadow: 4px 3px 0px #7A7A7A;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+img{
+  width: 80%;
+}
+footer{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
